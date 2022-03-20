@@ -1,0 +1,7 @@
+https://anderfernandez.com/blog/automatizar-script-python-google-cloud/
+
+https://cloud.google.com/python?hl=es
+
+https://www.pythonanywhere.com/ (mejor)
+
+google colab para programar a través de drive
